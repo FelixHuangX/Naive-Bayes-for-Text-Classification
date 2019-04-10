@@ -26,4 +26,6 @@ The Finance News:
 ![image](https://github.com/FelixHuangX/Naive-Bayes-for-Text-Classification/blob/master/wordcloud/9.JPG)
 
 # Execution
+First run:`Naivebayes_train.py`,and the model will be saved in the folder 'models'.
+Then run:`NaiveBayes_test.py` to test accuracy in test data.I already done this test,and the accuracy can be up to 95%.
 
