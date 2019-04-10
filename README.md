@@ -14,4 +14,4 @@ The 'cnews.train.txt' file is very big,which obtian 50k news with 10 calsses,so 
 ![image](https://github.com/FelixHuangX/Naive-Bayes-for-Text-Classification/blob/master/%E6%95%B0%E6%8D%AE%E7%A4%BA%E4%BE%8B.JPG)
 
 # WordCloud
-The code ''
+The code 'Naivebayes_train.py' include the Wordclou part,and this section has been covered in this .py file.For example,Wordcloud can show the mian words in each class of Chinese news,like below:
